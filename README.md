@@ -30,9 +30,9 @@
 ├── шпаргалка2.md      # шпаргалка по Markdown
 └── img/               # изображения для обоих файлов
     ├── i.webp
-    ├── pr-1-create.png
-    ├── pr-2-push.png
-    └── pr-3-compare.png
+    ├── 1.png
+    ├── 2.png
+    └── 3.png
 ```
 
 ## Как пользоваться
